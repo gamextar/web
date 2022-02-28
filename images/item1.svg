@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="480px" height="480px" viewBox="0 0 480 480">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="400px" height="400px" viewBox="0 0 400 400">
 <defs>
 <g id="shape453_swf_0_Layer0_0_FILL">
 <path fill="#6F4A4F" stroke="none" d="
@@ -711,7 +711,7 @@ Q 94.25 -166.55 91.75 -167.8 89.4 -169 87.5 -167.15 85.6 -165.25 88.75 -162.5 92
 </g>
 </defs>
 
-<g transform="matrix( 0.5925140380859375, 0, 0, 0.5925140380859375, 252.5,427.6) ">
+<g transform="matrix( 1.440673828125, 0, 0, 1.440673828125, 199.5,399.5) ">
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
 <use xlink:href="#shape453_swf_0_Layer0_0_FILL"/>
 </g>
