@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<title>CodePen - Scrolling</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.5.0/css/all.css'>
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=VT323'>
+<link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+
+
+<a class="logo scroll scroll-1" href="#section-1"><span class="icon"> </span></a>
+
+
+<nav class="main">
+  <button class="hamburger"><span></span></button>
+  <ul>
+    <li class="menu-title">choose your destiny</li>
+    <li><a class="scroll scroll-1" href="#section-1">home</a></li>
+    <li><a class="scroll scroll-2" href="#section-2">about</a></li>
+    <li><a class="scroll scroll-3" href="#section-3">work</a></li>
+    <li><a class="scroll scroll-4" href="#section-4">contact</a></li>
+  </ul>
+</nav>
+<nav class="dots"><a class="scroll scroll-1 tooltip tooltip-left active" href="#section-1" data-tooltip="home"></a><a class="scroll scroll-2 tooltip tooltip-left" href="#section-2" data-tooltip="about"></a><a class="scroll scroll-3 tooltip tooltip-left" href="#section-3" data-tooltip="work"></a><a class="scroll scroll-4 tooltip tooltip-left" href="#section-4" data-tooltip="contact"></a></nav>
+
+
+<section class="section-1" id="section-1">
+  <h2>Home</h2>
+  <p>I guess this is where the house is.</p>
+</section>
+<section class="section-2" id="section-2">
+  <h2>About</h2>
+  <p>I do stuff... and things.</p>
+</section>
+<section class="section-3" id="section-3">
+  <h2>Work</h2>
+  <p>This is what I do. I love what I do.</p>
+</section>
+<section class="section-4" id="section-4">
+  <h2>Contact</h2>
+  <p>Don't call me.</p>
+</section>
+
+
+
+<!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+<script src='https://unpkg.com/swiper/swiper-bundle.min.js'></script>
+<script  src="./script.js"></script>
+
+</body>
+</html>
