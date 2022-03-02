@@ -54,11 +54,6 @@ body
   
 }
 
-
-
-    
-}
-
 .logo {
 position: fixed;
   top: 0;
@@ -75,7 +70,10 @@ position: fixed;
   z-index: 2;
 }
 
-section {
+section
+{
+    
+  overflow: hidden;
   position: relative;
   display: flex;
   align-items: center;
