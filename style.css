@@ -50,12 +50,12 @@ body
   height:100vh;
   font-family:-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,"Segoe UI",Roboto,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;
   line-height:1.5;
-  background-image:linear-gradient(to bottom,#4B2B7B,#A75581);
-  
+  background-image:linear-gradient(to bottom,#4B2B7B,#A75581)
+
 }
 
 .logo {
-position: fixed;
+  position: fixed;
   top: 0;
   display: flex;
   flex-direction: column;
@@ -73,13 +73,13 @@ position: fixed;
 section
 {
     
-  overflow: hidden;
   position: relative;
+  overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100vw;
-  height: 100%;
+  height: 100vh;
 }
 
 h2 {
