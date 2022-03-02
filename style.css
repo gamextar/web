@@ -61,6 +61,7 @@ body
   position: relative;
   overflow: hidden;
   margin: 0;
+  height: 100vh; /* Fallback for browsers that do not support Custom Properties */
   min-height: 100vh;
   /* mobile viewport bug fix */
   min-height: -webkit-fill-available;
@@ -100,7 +101,7 @@ section
   align-items: center;
   justify-content: center;
   width: 100vw;
-  
+
   height: 100vh; /* Fallback for browsers that do not support Custom Properties */
   height: calc(var(--vh, 1vh) * 100);
   
