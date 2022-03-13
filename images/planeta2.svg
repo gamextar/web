@@ -1,0 +1,72 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1280px" height="720px" viewBox="0 0 1280 720">
+<defs>
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="0.83 0 0 0 0.10196078431372549 0 0.83 0 0 0 0 0 0.83 0 0.16862745098039217 0 0 0 1 0" result="result1"/>
+</filter>
+
+<g id="circulo_celeste_0_Layer0_0_FILL">
+<path fill="#3198BC" stroke="none" d="
+M 80 -2.7
+Q 80 -35.3 56.55 -58.3 33.15 -81.35 0 -81.35 -33.1 -81.35 -56.55 -58.3 -80 -35.3 -80 -2.7 -80 29.9 -56.55 52.95 -33.1 76 0 76 33.15 76 56.55 52.95 80 29.9 80 -2.7 Z"/>
+</g>
+
+<g id="S_mbolo_26_0_Layer0_0_FILL">
+<path fill="#3198BC" stroke="none" d="
+M 150.8 87.8
+Q 152.85 72.1 148.65 58.05 144.95 45.5 136.25 34.3 117.9 10.55 88.15 6.8 58.35 2.9 34.55 21.35 10.8 39.65 7.05 69.4 3.25 99.2 21.65 122.9 40 146.7 69.7 150.4 99.5 154.3 123.25 135.9 130.15 130.6 135.35 124.3 148.1 108.95 150.8 87.8 Z"/>
+</g>
+
+<g id="circulo_celeste_0_Layer0_1_MEMBER_1_FILL">
+<path fill="#48C4D8" stroke="none" d="
+M 72.95 -16.65
+Q 67.7 -43.15 48.95 -60.25 28.3 -79.2 -1 -78.7 -31.75 -77.9 -53.35 -53.55 -73.05 -31.1 -75.9 -1.1 -78.8 29.95 -61.25 49.15 -41.35 70.85 -1.95 66.8 -19.7 60.15 -26.2 54.8 -40.85 43 -40.6 21.85 -34.15 59.1 28.3 63.9 55.45 55.6 67.2 31.5 78 9.6 72.95 -16.65 Z"/>
+</g>
+
+<g id="circulo_celeste_0_Layer0_1_MEMBER_2_FILL">
+<path fill="#55EAF2" stroke="none" d="
+M 58.1 -33.25
+Q 51.15 -51.65 32 -62.95 11.75 -74.7 -12.1 -70.95 -46 -65.35 -61.25 -46.85 -74.9 -30.3 -69.05 -10.45 -63.2 9.05 -42.4 19.75 -19.05 31.25 12.3 25.1 43.35 19.2 55.05 1.3 65.55 -14.25 58.1 -33.25 Z"/>
+</g>
+
+<g id="circulo_celeste_0_Layer0_1_MEMBER_3_FILL">
+<path fill="#78F9FF" stroke="none" d="
+M 591.85 794
+Q 583.65 805.45 588.7 818.2 593.75 830.85 602.9 818.2 611.75 805.95 605.05 795.35 598.3 784.75 591.85 794 Z"/>
+</g>
+
+<g id="circulo_celeste_0_Layer0_1_MEMBER_4_FILL">
+<path fill="#78F9FF" stroke="none" d="
+M 716.95 815.5
+Q 704.9 819.05 705.65 837.8 706.1 856.55 714.55 851.15 724.6 844.35 729.9 827.75 735.2 809.8 716.95 815.5 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 2.51873779296875, -0.011260986328125, 0.010955810546875, 2.525482177734375, 641.1,368.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_1)" xlink:href="#circulo_celeste_0_Layer0_0_FILL"/>
+</g>
+
+<g transform="matrix( 1.1037750244140625, 0, 0, 1.1037750244140625, -87.55,-89.95) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_1)" xlink:href="#S_mbolo_26_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.921142578125, 0, 0, 1.00341796875, 1.3,-1.05) ">
+<use filter="url(#Filter_1)" xlink:href="#circulo_celeste_0_Layer0_1_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_1)" xlink:href="#circulo_celeste_0_Layer0_1_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 2.0155029296875, 0, 0, 1.9820404052734375, -1259.45,-1610.15) ">
+<use filter="url(#Filter_1)" xlink:href="#circulo_celeste_0_Layer0_1_MEMBER_3_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 0.9833984375, -663.9,-788.35) ">
+<use filter="url(#Filter_1)" xlink:href="#circulo_celeste_0_Layer0_1_MEMBER_4_FILL"/>
+</g>
+</g>
+</svg>
